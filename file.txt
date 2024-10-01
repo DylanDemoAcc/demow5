@@ -1,1 +1,1 @@
-Local repo changes
+Local repo changes. Remote repo has been changed
