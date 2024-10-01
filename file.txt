@@ -1,1 +1,1 @@
-This is the file.txt content on local. This should be conflicting!!!
+Local repo changes
