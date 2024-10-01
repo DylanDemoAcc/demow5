@@ -1,1 +1,1 @@
-Local repo changes. Remote repo has been changed
+This change is to demonstrate git fetch
